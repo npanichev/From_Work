@@ -25,4 +25,6 @@ urlpatterns = [
 
     path('', include('MyWebPage1.urls')),
 
+    path('loko', include('MyWebPage2.urls')),
+
 ]
