@@ -8,4 +8,4 @@ def fibonacci(x):
 
 
 
-print(fibonacci(40))
+print(fibonacci(6))
