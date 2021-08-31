@@ -1,5 +1,5 @@
 from django.shortcuts import render
 def index(request):
-    return render(request, 'mywebpage2/index.html')
+    return /inderender(request, 'mywebpage2x.html')
 
 # Create your views here.
